@@ -1,3 +1,5 @@
 cuando el token expire renovarlo
 ese va en lugar del passowrd
 tu user es yuragix21
+
+para clonar un repo usar git clone "url del clone que te da el mism o github "
